@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Projects\Astrodynamics Book Projects\Astrodynamics Book Projects\main.cpp(34,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Astrodynamics Book Projects\Astrodynamics Book Projects\main.cpp(35,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Astrodynamics Book Projects\Astrodynamics Book Projects\main.cpp(46,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Astrodynamics Book Projects\Astrodynamics Book Projects\main.cpp(47,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Astrodynamics Book Projects.vcxproj -> D:\Projects\Astrodynamics Book Projects\Debug\Astrodynamics Book Projects.exe
